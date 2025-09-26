@@ -41,23 +41,6 @@ Each program includes:
 - Benefits and recommended fitness levels
 - Weekly schedule suggestions
 
-### About the Creators
-
-Meet the team behind FitQuest:
-
-**Muhammed Fadel**
-- Role: Co-Developer
-- Major: Software Engineer
-- Expected Graduation: Spring 2026
-- Hobbies: Soccer, traveling, weight lifting
-- Email: muhammed@iastate.edu
-
-**Kaung Son**
-- Role: Co-Developer
-- Major: Software Engineer
-- Expected Graduation: Spring 2026
-- Hobbies: Weight lifting, video games, running, coding
-- Email: kpson@iastate.edu
 
 #### Motivation
 Our shared passion for health and wellness led us to create FitQuest—a platform offering easy access to quality workout resources and personalized programs, supporting everyone on their fitness journey.
